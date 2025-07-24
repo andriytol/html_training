@@ -1,0 +1,93 @@
+/* @font-face {
+    font-family: OS-bold;
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: OS-regular;
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+body {
+    font-family: OS-bold, sans-serif;
+} */
+
+
+
+/* * {
+    color: aqua;
+}
+
+section * {
+    color: aqua;
+} */
+
+
+
+body {
+    font-family: 'open sans', sans-serif;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.header {
+    background-color: grey;
+}
+
+.header-link,
+.header-tel {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
+
+.header-btn {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.hero-link {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.2em;
+    color: #303030;
+}
+
+.hero-pre-title {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    color: rgb(157, 164, 189, 0.6);
+}
+
+.hero-title {
+    font-family: 'Ralewey', sans-serif;
+    font-weight: 700;
+    font-size: calc(85 / 72);
+    line-height: 1.36;
+    letter-spacing: 0.05em;
+    color: #ffffff;
+}
+
+.hero-after-title {
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: #9da4bd;
+}
